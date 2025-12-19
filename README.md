@@ -44,4 +44,10 @@ The Tarot Reading Website successfully demonstrates the application of modern fr
 
 
 
+## Authors
 
+Nitin S,
+Prem Mahendra Naik,
+Samriddhi,
+Krishna laxmilal hinged,
+Shankar.
