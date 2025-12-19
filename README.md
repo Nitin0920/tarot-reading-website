@@ -37,19 +37,6 @@ The primary objective of this project is to apply frontend web development conce
 - Clean and user-friendly interface  
 
 
-## Screenshots
-
-> Screenshots of the Tarot Reading Website interface
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Tarot Card Selection
-![Tarot Cards](screenshots/cards.png)
-
-### Reading Result Page
-![Reading Result](screenshots/result.png)
-
 
 ## Conclusion
 
